@@ -24,4 +24,14 @@ Namun button ADD NEW LOCATION masih belum berfungsi
 <br> <br>
 - Yang terakhir adalah SilentMode commit ini berfungsi untuk mengatur notif yang akan ditampilkan, maka jika kita berda pada posisi yang kita pilih maka akan muncul notif suara dan tulisan<br>
 ![screenshot_20170912-104648](https://user-images.githubusercontent.com/21364340/30411241-e6d7a814-9939-11e7-90a1-fdc94a1e88b8.png)
+![screenshot_20170912-125528](https://user-images.githubusercontent.com/21364340/30411838-e3c8cca8-993d-11e7-846a-59419b98a5c1.png)
 
+## Identitas
+<b>
+NAMA : LOUISA GABRIELLA <BR>
+KELAS : XII RPL 5 <BR>
+NOMER ABSEN : 15 <BR>
+NOMER INDUK SISWA : 4740/1450.070 <BR>
+GURU PENGAJAR : PAK ARIFIN <BR>
+<BR> <BR>
+<i> @copyrightLouisaGab_2017
